@@ -1,0 +1,2 @@
+# HelloNDK
+learning NDK
